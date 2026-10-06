@@ -1,0 +1,9 @@
+Package: calculadora-pro
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Tu Nombre <tu_correo@email.com>
+Depends: python3 (>= 3.6), python3-tk
+Description: Calculadora Pro con interfaz moderna, modo científico y temas dinámicos.
+ Una utilidad ligera hecha con Python y Tkinter para Linux Mint.

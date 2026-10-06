@@ -1,0 +1,15 @@
+Package: calculadora-pro
+Version: 1.0.0
+Architecture: all
+Maintainer: Tu Nombre <tu_correo@email.com>
+Depends: python3 (>= 3.6), python3-tk
+Filename: pool/main/c/calculadora-pro/calculadora_suite.deb
+Size: 3776
+MD5sum: 8b8d56515367d274907b3db44f4e4480
+SHA1: 25a926d8e6751667f58706c77c54921c0b57d8dc
+SHA256: a71a6ef15ebef96515eb71d54645d3a87ee3802a549e2490d11c0f3076d7e8aa
+Section: utils
+Priority: optional
+Description: Calculadora Pro con interfaz moderna, modo científico y temas dinámicos.
+ Una utilidad ligera hecha con Python y Tkinter para Linux Mint.
+

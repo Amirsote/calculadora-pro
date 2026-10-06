@@ -1,0 +1,6 @@
+Origin: Amirsote PPA
+Label: Calculadora Pro Repo
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Repositorio APT oficial para Calculadora Pro y la suite de software Linux.
